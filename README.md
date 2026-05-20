@@ -31,9 +31,9 @@ data_raw.csv
 ```
 
 Three dashboard pages:
-- **Map** — state choropleth (per-capita), top-city bubbles, slicers
-- **Timeline** — yearly bars with NUFORC era split, hour×DOW heatmap, shape evolution, report lag
-- **Phenomenon** — shape treemap, TF-IDF matrix, LDA topic terms, topic prevalence over time
+- **Map** - state choropleth (per-capita), top-city bubbles, slicers
+- **Timeline** - yearly bars with NUFORC era split, hour×DOW heatmap, shape evolution, report lag
+- **Phenomenon** - shape treemap, TF-IDF matrix, LDA topic terms, topic prevalence over time
 
 ## How to reproduce
 
